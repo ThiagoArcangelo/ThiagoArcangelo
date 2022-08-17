@@ -6,7 +6,10 @@
 - 🌱 Sou formado em Engenharia de Controle e Automação
 - ⚡ Sou desenvolvedor voluntário Node/React na Rede Autoestima-se (ONG)
 
+
+
 Conhecimentos:
+
 
 <div style="display: inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="70"/>
