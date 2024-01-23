@@ -1,11 +1,9 @@
 ## Olá, me chamo Thiago ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 👯 Sou entusiasta da programação a 5 anos.
+- 👯 Sou desenvolvedor c# .Net.
 - 🔭 Atualmente estudo Analise e Desenvolvimento de Sistemas 
-- 🌱 Sou formado em Engenharia de Controle e Automação
-- ⚡ Sou desenvolvedor voluntário Node/React na Rede Autoestima-se
-
+- 🌱 Sou entusiasta em programação a mais de 5 anos.
 
 
 Conhecimentos:
@@ -13,7 +11,7 @@ Conhecimentos:
 
 <div style="display: inline-block>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" heigt="70 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="80" height="70"/>
